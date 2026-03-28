@@ -34,3 +34,14 @@ The `screenshots` folder contains output images for all three functions.
 This project was originally developed and tested using **Python 3.9** with the **graphics.py** library.  
 
 ---
+
+## Screenshots
+
+### draw3Circles
+![draw3Circles](screenshots/draw3circles.PNG)
+
+### PrintNumsWithSum
+![PrintNumsWithSum](screenshots/printnumswithsum.PNG)
+
+### DrawFace
+![DrawFace](screenshots/drawface.PNG)
